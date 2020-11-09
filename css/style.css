@@ -146,26 +146,20 @@ hr {
 	color: #fff;
 }
 .btn-default {
-	color: #fff;
-	background-color: transparent;
-	border-color: #fff;
+	color: #000000;
+	background-color: #ffffff;
+	border-color: #000000;
 	padding: 10px 20px;
 	margin: 0;
 	font-size: 16px;
 	border-radius: 0;
 }
 .btn-default:hover, .btn-default:focus, .btn-default.focus, .btn-default:active, .btn-default.active {
-	color: #fff;
+	color: #000000;
 	background-color: #121d1f;
-	border-color: #121d1f;
+	border-color: #000000;
 }
-.btn-primary {
-	color: #fff;
-	background-color: #121d1f;
-	padding: 10px 20px;
-	border-color: #121d1f;
-	border-radius: 0;
-}
+
 .btn-primary:hover, .btn-primary:focus, .btn-primary.focus, .btn-primary:active, .btn-primary.active {
 	color: #fff;
 	background-color: #BDEBFF;
@@ -183,8 +177,7 @@ hr {
 	text-align: center;
 	color: #fff;
 	background: url(../img/intro-bg.jpg) no-repeat center top;
-	background-color: #BDEBFF;
-	opacity:0.5;
+	opacity:0.4;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
